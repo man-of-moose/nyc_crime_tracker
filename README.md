@@ -3,8 +3,7 @@
 ## Data Source:
 
 This project uses data sourced from Data.gov. The dataset, "NYPD Arrests Data", contains information about every arrest in NYC dating back to 2006. In total, there are over 5 million entries in the dataset.
-For this project, initial data transformations and cleaning occur in the .ipynb notebook, "Data Processing". The data processing steps include formatting missing values, and removing data earlier than 2019 in order to streamline the online dash application.
-Future iterations of this project will explore alternate methods to include all data back to 2006.
+For this project, initial data transformations and cleaning occur in the .ipynb notebook, "Data Processing". The data processing steps include formatting missing values, aggregating arrest_types, processing date values. As an MVP, this project only focuses on arrests from 2019 and onward. Fture iterations of this project will explore alternate methods to include all data back to 2006.
 
 URL: https://catalog.data.gov/dataset/nypd-arrests-data-historic
 
