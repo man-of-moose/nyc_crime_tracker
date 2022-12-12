@@ -28,5 +28,4 @@ Plotly, Datashader, Dash, Heroku
 ## How to Run
 
 1. Clone this repository
-2. Run the following in terminal:
-  - python3 main.py
+2. Run the following in terminal: 'python3 main.py'
