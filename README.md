@@ -23,3 +23,10 @@ A crime dashboard covering all crimes in NYC from 2006-2021 is extremely relevan
 ## Technologies Used
 
 Plotly, Datashader, Dash, Heroku
+
+
+## How to Run
+
+1. Clone this repository
+2. Run the following in terminal:
+  - python3 main.py
